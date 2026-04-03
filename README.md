@@ -20,7 +20,7 @@ threading - Ejecución de tareas en hilos separados
 selenium - Automatización del navegador web
 pandas - Manipulación y análisis de datos
 webdriver (Edge WebDriver) - Control específico de Microsoft Edge
-##H ow to Run the Project
+## How to Run the Project
 ### Requisitos previos:
 Python 3.7 o superior instalado en el sistema
 Microsoft Edge instalado
