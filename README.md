@@ -17,9 +17,12 @@ tkinter - Interfaz gráfica de usuario
 time - Manejo de timestamps y pausas
 threading - Ejecución de tareas en hilos separados
 ### Librerías de terceros:
-selenium - Automatización del navegador web
-pandas - Manipulación y análisis de datos
-webdriver (Edge WebDriver) - Control específico de Microsoft Edge
+- selenium
+- Automatización del navegador web
+pandas
+- Manipulación y análisis de datos
+- webdriver (Edge WebDriver)
+- Control específico de Microsoft Edge
 ## How to Run the Project
 ### Requisitos previos:
 Python 3.7 o superior instalado en el sistema
